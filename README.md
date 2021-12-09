@@ -31,4 +31,6 @@ then the most closestresemblance coresponding feature index will pass
  and the name corresponding to that index will most probab;y be the person
 
 
-////** thsi will be our code for face recognition**/
+////** this will be the logic of our code for face recognition**/
+//* and the code training file calling and code is given in the repositiory**//
+//* please take the test file of your own (test images)**/
